@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\ZeroJChang\source\repos\Lab_Busqueda_DeLeonChang_1170419\Lab_Busqueda_DeLeonChang_1170419\MyForm.h(297): warning C4715:  'LabBusquedaDeLeonChang1170419::MyForm::PosicionEnHash': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab_Busqueda_DeLeonChang_1170419.vcxproj -> C:\Users\ZeroJChang\source\repos\Lab_Busqueda_DeLeonChang_1170419\Debug\Lab_Busqueda_DeLeonChang_1170419.exe
